@@ -1,4 +1,4 @@
-# BMI Calulator made by shan
+# BMI Calulator 
 This BMI (Body Mass Index) calculator is a web application built using HTML, CSS, Bootstrap 5, and JavaScript. It allows users to quickly and easily calculate their BMI based on their height and weight. BMI is a simple way to determine if a person's weight is within a healthy range relative to their height.
 
 ## Features
